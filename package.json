@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/glintcms/glint-block-text",
   "dependencies": {
-    "format": "^0.2.1",
+    "debug": "^2.2.0",
     "utils-merge": "^1.0.0"
   }
 }
