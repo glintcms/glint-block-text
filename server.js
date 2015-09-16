@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var debug = require('debug')('glint:TextBlock');
+var debug = require('debug')('glint-block-text');
 var merge = require('utils-merge');
 
 
