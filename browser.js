@@ -99,4 +99,4 @@ TextBlock.prototype.preventClickEvent = function(e) {
   e.stopPropagation();
   e.stopImmediatePropagation();
   return false;
-}
+};
